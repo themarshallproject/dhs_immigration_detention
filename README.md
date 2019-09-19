@@ -27,22 +27,30 @@ If you'd like to use the data, please read on to understand its provenance.
 
 To compile this data, we had to dig through decades of government files dating back to the 1960s, when the Department of Homeland Security and Immigration and Customs Enforcement did not exist.
 
-The bulk of the data came from House Committee on Appropriations budget hearing documents. We also used reports and documents published in the Department of Homeland Security Library archives, in addition to enforcement reports published online by the Department of Homeland Security. The apprehensions data came from the Customs and Border Patrol website, where they publish data tables and arrest reports. Lastly, we also collected data from reports published by the Congressional Research Service, the research arm of Congress.
+The bulk of the data came from House Committee on Appropriations budget hearing documents. We also used reports and documents published in the Department of Homeland Security Library archives, in addition to enforcement reports published online by the Department of Homeland Security and research from the Congressional Research Service. The apprehensions data came from the Customs and Border Patrol website, where they publish data tables and arrest reports. Lastly, we also collected data from reports published by the Congressional Research Service, the research arm of Congress.
 
 Despite our best attempts, there are still a few gaps in the data. (Mostly between 1995 and 2000.) Nevertheless, the bulk of the data we gathered allow us to reveal overarching trends in the detention system.
 
+It is important to note that there are some places where we had to do our own calculations, based on formulas that received from the Department of Homeland Security, or that we found in the archives of that department's predecessor: the Immigration and Naturalization Service, or INX.
+
+From  1979 - 1993 we calculated the Average Daily Population (ADP) by dividing the total number of days that all detainees spent in detention in a given fiscal year by the number of days in that fiscal year. For leap years, we divide by 366. For every other year, we divided by 365.   
+
+From 1994 - 2000 we took the ADP numbers from a Congressional Research Service Report, that cited the DHS and the INS as their sources.
+
+Please contact us if you have any questions. 
 
 # Contributors
 It takes a village to raise a data story. This one benefitted from the scrutiny, creativity and talents of:
 
 - [Emily Kassie](https://www.themarshallproject.org/staff/emily-kassie), Director of Visual Projects, at The Marshall Project
 - [Andrew R. Calderon](https://www.themarshallproject.org/staff/andrew-r.-calderon), Data Reporter, at The Marshall Project
+- [Weihua Li](https://www.themarshallproject.org/staff/weihua-li) Data Reporting Fellow, at The Marshall Project
 - [Tom Meagher](https://www.themarshallproject.org/staff/tom-meagher), Managing Editor for Digital and Data, at The Marshall Project
 
 
 # Questions, Comments?
 See a way we can improve this repo? We love feedback!
 
-Contact us at: acalderon@themarshallproject.com
+Contact us at: acalderon@themarshallproject.com or ekassie@themarshallproject.org
 
 If you wish to receive our roundups of the best criminal justice news from around the web, please [subscribe to our daily newsletter](https://themarshallproject.us3.list-manage.com/subscribe?u=a92567c13cca06b470824aead&id=5e02cdad9d).
