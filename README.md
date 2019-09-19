@@ -15,11 +15,13 @@ M M M M M M M M M   /_/  /_/  \___/_/ /\__/\__/\__/
 By [Andrew R. Calderon](https://www.themarshallproject.org/staff/andrew-r.-calderon)
 
 # Detained
-The United States immigration detention system is the largest it has ever been. There are over 1,600 detention centers, tens of thousands of people in detention on a daily basis and millions of dollars in taxpayer monies flowing to local governments and private companies alike. For the most part, detainees are being held for violating a federal law against illegal entry. The Trump administration says we must hold them until an immigration judge decides their fate. But there are problems: detainees are dying, children are being separated from their families, and conditions inside the facilities are worsening.
+The United States immigration detention system is the largest it has ever been. There are over 1,600 detention centers, tens of thousands of people in detention on a daily basis and millions of dollars in taxpayer money flowing to local governments and private companies alike.
 
-Using documentary filmmaking and data visualization, "[Detained](LINK)", published on September XX, 2019, tells the origin story of immigrant detention in the United States, of the immigration system that Donald Trump inherited and  its subsequent transformation.
+For the most part, detainees are being held for violating a federal law against illegal entry. The Trump administration says we must hold them until an immigration judge decides their fate. But there are problems: detainees are dying, children are being separated from their families, and conditions inside the facilities are worsening.
 
-Included in this repo are the [detention](LINK) and [apprehensions](LINK) data that [The Marshall Project](LINK) used to show how the detained population and apprehensions have changed over the past three decades.
+Using documentary filmmaking and data visualization, "[Detained](LINK)", published on September XX, 2019, tells the origin story of immigrant detention in the United States, of the immigration system that Donald Trump inherited and of its transformation over the years.
+
+Included in this repo are the [detention](LINK), [apprehensions](LINK) and [appropriations](LINK) data that [The Marshall Project](https://www.themarshallproject.org) used to show how the detained population and apprehensions have changed over the past four decades.
 
 If you'd like to use the data, please read on to understand its provenance.
 
@@ -31,13 +33,13 @@ The bulk of the data came from House Committee on Appropriations budget hearing 
 
 Despite our best attempts, there are still a few gaps in the data. (Mostly between 1995 and 2000.) Nevertheless, the bulk of the data we gathered allow us to reveal overarching trends in the detention system.
 
-It is important to note that there are some places where we had to do our own calculations, based on formulas that received from the Department of Homeland Security, or that we found in the archives of that department's predecessor: the Immigration and Naturalization Service, or INX.
+It is important to note that there are some places where we had to do our own calculations, based on formulas that received from the Department of Homeland Security, or that we found in the archives of that department's predecessor: the Immigration and Naturalization Service, or INS.
 
-From  1979 - 1993 we calculated the Average Daily Population (ADP) by dividing the total number of days that all detainees spent in detention in a given fiscal year by the number of days in that fiscal year. For leap years, we divide by 366. For every other year, we divided by 365.   
+From  1979 and 1993 we calculated the Average Daily Population (ADP) by dividing the total number of days that all detainees spent in detention in a given fiscal year by the number of days in that fiscal year. For leap years, we divide by 366. For every other year, we divided by 365.   
 
-From 1994 - 2000 we took the ADP numbers from a Congressional Research Service Report, that cited the DHS and the INS as their sources.
+From 1994 and 2000 we took the ADP numbers from a Congressional Research Service Report, that cited the DHS and the INS as their sources.
 
-Please contact us if you have any questions. 
+Please contact us if you have any questions.
 
 # Contributors
 It takes a village to raise a data story. This one benefitted from the scrutiny, creativity and talents of:
