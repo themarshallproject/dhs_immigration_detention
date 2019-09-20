@@ -21,7 +21,7 @@ Detainees are not being punished for a crime, they're being held in "civil deten
 
 Using documentary storytelling and data visualization, "[Detained](https://www.themarshallproject.org/2019/09/24/detained)," published on September 24, 2019, tells the origin story of the immigration detention system Donald Trump inherited and his transformation of it.
 
-Included in this repo are the [detention](LINK), [apprehensions](LINK) and [appropriations](LINK) data that [The Marshall Project](https://www.themarshallproject.org) used to show how the detention population has grown over the past four decades.
+Included in this repo are the [detention](!appropriations.csv), [apprehensions](LINK) and [appropriations](LINK) data that [The Marshall Project](https://www.themarshallproject.org) used to show how the detention population has grown over the past four decades.
 
 If you'd like to use the data, please read on to understand its provenance.
 
@@ -33,7 +33,7 @@ The bulk of the data came from the House Committee on Appropriations budget hear
 
 We were able to gather an almost complete set of data describing the growth of the detention system. For the years 1997 to 2000, we were only able to acquire partial data.
 
-It is important to note that we calculated the Average Daily Population (ADP) from years 1979 to 1993 using formulas in the INS statistical yearbook. and confirmed by the Department of Homeland Security. 
+It is important to note that we calculated the Average Daily Population (ADP) from years 1979 to 1993 using formulas in the INS statistical yearbook. and confirmed by the Department of Homeland Security.
 
 For those years, ADP was calculated by dividing the total number of days that all detainees spent in detention in a given fiscal year by the number of days in that fiscal year. These were referred to by the INS as "mandays" or "detention days." For leap years, we divided by 366. For the rest, we divided by 365.   
 
