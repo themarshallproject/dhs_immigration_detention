@@ -29,7 +29,7 @@ If you'd like to use the data, please read on to understand its provenance.
 
 To compile this data, we dug through decades of government files dating back to the 1960s, when the work of the Department of Homeland Security and Immigration and Customs Enforcement were done by a single agency called the Immigration and Naturalization Service.
 
-The bulk of the data came from the House Committee on Appropriations budget hearing documents. We also used reports and documents held in the [United States Citizenship and Immigration Services](https://www.uscis.gov/library) library, in addition to [enforcement reports](https://www.dhs.gov/immigration-statistics/enforcement-actions) published online by the Department of Homeland Security and research from the [Congressional Research Service](https://crsreports.congress.gov). The apprehensions data came from the [Customs and Border Protection](https://www.cbp.gov/newsroom/media-resources/stats) website, where they publish data tables and arrest reports.
+The bulk of the data came from the House Committee on Appropriations budget hearing documents. We also used reports and documents held in the [United States Citizenship and Immigration Services](https://www.uscis.gov/library) library, in addition to enforcement reports published online by the [Department of Homeland Security](https://www.dhs.gov/immigration-statistics/enforcement-actions) and research from the [Congressional Research Service](https://crsreports.congress.gov). The apprehensions data came from the [Customs and Border Protection](https://www.cbp.gov/newsroom/media-resources/stats) website, where they publish data tables and arrest reports.
 
 We were able to gather an almost complete set of data describing the growth of the detention system. For the years 1997 to 2000, we were only able to acquire partial data.
 
@@ -38,6 +38,8 @@ It is important to note that we calculated the Average Daily Population (ADP) fr
 For those years, ADP was calculated by dividing the total number of days that all detainees spent in detention in a given fiscal year by the number of days in that fiscal year. These were referred to by the INS as "mandays" or "detention days." For leap years, we divided by 366. For the rest, we divided by 365.   
 
 From 1994 and 2000, we took ADP from a Congressional Research Service report that cited the DHS and the INS as their sources. Given that this document was published later than the House Committee on Appropriations budget hearing reports, we relied on the most recent data. The data from 2001 to the present was sourced directly from ICE.
+
+We published [original source material](https://www.documentcloud.org/search/projectid:45884-Immigration-detention) on DocumentCloud. If you navigate to any of the documents, you will see public notes that guide you to the place where we pulled data. 
 
 Please contact us if you have any questions.
 
