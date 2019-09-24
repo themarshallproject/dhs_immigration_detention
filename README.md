@@ -35,7 +35,7 @@ The bulk of the data came from the House Committee on Appropriations budget hear
 
 We published [original source material](https://www.documentcloud.org/search/projectid:45884-Immigration-detention) on DocumentCloud. If you navigate to any of the documents, you will see public notes that guide you to the place where we pulled data.
 
-We also received detention facility data in response to a FOIA request to ICE. We included here a subset of that data with the names, addresses, areas of responsibility, years of operation and longitudes and latitudes for ICE-dedicated facilities, current as of November of fiscal year 2017.
+We also received detention facility data in response to a FOIA request to ICE. We included here a subset of that data with the names, addresses, areas of responsibility (AOR), years of operation (DD/MM/YYYY) and longitudes and latitudes for ICE-dedicated facilities, current as of November of fiscal year 2017.
 
 ## Methods
 
@@ -43,7 +43,7 @@ We also received detention facility data in response to a FOIA request to ICE. W
 
 We were able to gather an almost complete set of data describing the growth of the detention system. For the years 1997 to 2000, we were only able to acquire partial data.
 
-It is important to note that we calculated the Average Daily Population (ADP) from years 1979 to 1993 using formulas in the INS statistical yearbook. and confirmed by the Department of Homeland Security.
+It is important to note that we calculated the Average Daily Population (ADP) from years 1979 to 1993 using formulas in the INS statistical yearbook that were then confirmed by the Department of Homeland Security.
 
 For those years, ADP was calculated by dividing the total number of days that all detainees spent in detention in a given fiscal year by the number of days in that fiscal year. These were referred to by the INS as "mandays" or "detention days." For leap years, we divided by 366. For the rest, we divided by 365.   
 
@@ -51,7 +51,7 @@ From 1994 and 2000, we took ADP from a Congressional Research Service report tha
 
 #### Locations
 
-We determined longitudes and latitudes of ICE detention facilities using the [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/start), and manually checked the geographic data, making corrections wherever the Google API didn't correctly geolocate a facility.
+We determined longitudes and latitudes of ICE detention facilities using the [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/start), and manually checked that geographic data, making corrections wherever the Google API didn't accurately geolocate a facility.
 
 Please contact us if you have any questions.
 
