@@ -35,7 +35,7 @@ The bulk of the data came from the House Committee on Appropriations budget hear
 
 We published [original source material](https://www.documentcloud.org/search/projectid:45884-Immigration-detention) on DocumentCloud. If you navigate to any of the documents, you will see public notes that guide you to the place where we pulled data.
 
-We also received detention facility data in response to a FOIA request to ICE. We included here a subset of that data with the names, addresses, areas of responsibility (AOR), years of operation (DD/MM/YYYY) and longitudes and latitudes for ICE-dedicated facilities, current as of November of fiscal year 2017.
+We also received detention facility data in response to a FOIA request to ICE. We included here a subset of that data with the names, addresses, areas of responsibility (AOR), years of operation (DD/MM/YYYY) and longitudes and latitudes for all immigrant detention facilities, from fiscal year 1978 through November of fiscal year 2017.
 
 ## Methods
 
