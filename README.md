@@ -21,15 +21,25 @@ Detainees are not being punished for a crime, they're being held in "civil deten
 
 Using documentary storytelling and data visualization, "[Detained](https://www.themarshallproject.org/2019/09/24/detained)," published on September 24, 2019, tells the origin story of the immigration detention system Donald Trump inherited and his transformation of it.
 
-Included in this repo are the [detention](detention.csv), [apprehensions](apprehensions.csv) and [appropriations](appropriations.csv) data that [The Marshall Project](https://www.themarshallproject.org) used to show how the detention population has grown over the past four decades.
+Included in this repo are the [detention](detention.csv), [apprehensions](apprehensions.csv), [appropriations](appropriations.csv) and [locations](locations.csv) data that [The Marshall Project](https://www.themarshallproject.org) used to show how the detention population has grown over the past four decades.
 
 If you'd like to use the data, please read on to understand its provenance.
 
-# Data Sources and Methodology
+# Data Sources and Methods
 
-To compile this data, we dug through decades of government files dating back to the 1960s, when the work of the Department of Homeland Security and Immigration and Customs Enforcement were done by a single agency called the Immigration and Naturalization Service.
+To compile this data, we dug through decades of government files dating back to the 1960s, when the work of the Department of Homeland Security (DHS) and Immigration and Customs Enforcement (ICE) were done by a single agency called the Immigration and Naturalization Service.
+
+## Sources
 
 The bulk of the data came from the House Committee on Appropriations budget hearing documents. We also used reports and documents held in the [United States Citizenship and Immigration Services](https://www.uscis.gov/library) library, in addition to enforcement reports published online by the [Department of Homeland Security](https://www.dhs.gov/immigration-statistics/enforcement-actions) and research from the [Congressional Research Service](https://crsreports.congress.gov). The apprehensions data came from the [Customs and Border Protection](https://www.cbp.gov/newsroom/media-resources/stats) website, where they publish data tables and arrest reports.
+
+We published [original source material](https://www.documentcloud.org/search/projectid:45884-Immigration-detention) on DocumentCloud. If you navigate to any of the documents, you will see public notes that guide you to the place where we pulled data.
+
+We also received detention facility data in response to a FOIA request to ICE. We included here a subset of that data with the names, addresses, areas of responsibility, years of operation and longitudes and latitudes for ICE-dedicated facilities, current as of November of fiscal year 2017.
+
+## Methods
+
+#### Detention, Appropriations and Apprehensions
 
 We were able to gather an almost complete set of data describing the growth of the detention system. For the years 1997 to 2000, we were only able to acquire partial data.
 
@@ -39,7 +49,9 @@ For those years, ADP was calculated by dividing the total number of days that al
 
 From 1994 and 2000, we took ADP from a Congressional Research Service report that cited the DHS and the INS as their sources. Given that this document was published later than the House Committee on Appropriations budget hearing reports, we relied on the most recent data. The data from 2001 to the present was sourced directly from ICE.
 
-We published [original source material](https://www.documentcloud.org/search/projectid:45884-Immigration-detention) on DocumentCloud. If you navigate to any of the documents, you will see public notes that guide you to the place where we pulled data.
+#### Locations
+
+We determined longitudes and latitudes of ICE detention facilities using the [Google Maps Geocoding API](https://developers.google.com/maps/documentation/geocoding/start), and manually checked the geographic data, making corrections wherever the Google API didn't correctly geolocate a facility.
 
 Please contact us if you have any questions.
 
